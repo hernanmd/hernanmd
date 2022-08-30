@@ -8,14 +8,14 @@
 </p>
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="70%">
 
 
 <h3 align="left">About me</h3>
 
 My name is Hernán Morales Durand and I'm a software developer, you can find me on <a href="https://www.linkedin.com/in/hernanm/">Linked<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'></a>
 
-- I'm currently looking for a job, previously working at [CIRAD](https://www.cirad.fr/) doing Agent-Based Modeling and [CONICET](https://www.conicet.gov.ar/) doing Bioinformatics.
+- Previously working at [CIRAD](https://www.cirad.fr/) doing Agent-Based Modeling and [CONICET](https://www.conicet.gov.ar/) doing Bioinformatics.
 - I am an Open Source Enthusiast, focusing on Object-Oriented Technology.
 - I have certified specializations in [Decentralized Finance (DeFi)](https://coursera.org/verify/specialization/2RCHTE64ARDR), 
 [Decentralized Applications (Dapps)](https://www.coursera.org/account/accomplishments/verify/LUYZAJ6TB7PW) and [Smart Contracts](https://www.coursera.org/account/accomplishments/verify/FF6YVWZWMLXV).
@@ -33,7 +33,7 @@ My name is Hernán Morales Durand and I'm a software developer, you can find me 
     <li>💬 Ping me about Pharo, Smalltalk, Blockchain, and Bioinformatics stuff.
   </ul>
 </td>
-<td width="50%">
+<td width="30%">
 <table>
   <tr>
     <td><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></td>
