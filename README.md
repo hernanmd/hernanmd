@@ -16,20 +16,21 @@
 My name is Hernán Morales Durand and I'm a software developer, you can find me on <a href="https://www.linkedin.com/in/hernanm/">Linked<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'></a>
 
 - Previously working at [CIRAD](https://www.cirad.fr/) doing Agent-Based Modeling and [CONICET](https://www.conicet.gov.ar/) doing Bioinformatics.
-- I am an Open Source Enthusiast, focusing on Object-Oriented Technology.
+- I am an Open Source "Enthusiast", focusing on Object-Oriented Technology.
 - I have certified specializations in [Decentralized Finance (DeFi)](https://coursera.org/verify/specialization/2RCHTE64ARDR), 
 [Decentralized Applications (Dapps)](https://www.coursera.org/account/accomplishments/verify/LUYZAJ6TB7PW) and [Smart Contracts](https://www.coursera.org/account/accomplishments/verify/FF6YVWZWMLXV).
 - Ask me about **Blockchain, Smalltalk and Pharo**
 - Twitter: No
 - Instagram: No
-- Facebook: No.
+- Facebook: No
+- TikiTok: Hehe, imagine that.
 
 <h3>⚡️ A Few Quick Facts</h3>
   <ul>
     <li>🔭 I’m currently working on Pharo.
     <li>🧐 Learning about serverless architectures, distributed systems, and ML.
     <li>👨‍💻 Most of my projects are available on GitHub.
-    <li>📝 I regulary write articles on my blog.
+    <li>📝 I <del>regulary</del>,ok <del>sometimes</del>....<del>rarely??</del> well <del>I write articles on my blog</del>, <ins>forgot where is my blog</ins>
     <li>💬 Ping me about Pharo, Smalltalk, Blockchain, and Bioinformatics stuff.
   </ul>
 </td>
@@ -65,6 +66,18 @@ My name is Hernán Morales Durand and I'm a software developer, you can find me 
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>
 </td></tr>
+<tr><td><h3>Also write me about</h3>
+<ul>
+<li>Singularity already happened
+<li>Ganzfeld experiment
+<li>Artificial Outrage Industry
+<li>The Time Cube
+<li>Andrea Amare Liarzi
+<li>Abandoned forest staircases
+<li>De-patterning
+<li>Hypersigil
+<li>Ural relief map
+</tr></td>
 </div>  
 
 <br/>  
