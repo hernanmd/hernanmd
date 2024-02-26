@@ -19,11 +19,8 @@ My name is Hernán Morales Durand and I'm a software developer, you can find me 
 - I am an Open Source "Enthusiast", focusing on Object-Oriented Technology.
 - I have certified specializations in [Decentralized Finance (DeFi)](https://coursera.org/verify/specialization/2RCHTE64ARDR), 
 [Decentralized Applications (Dapps)](https://www.coursera.org/account/accomplishments/verify/LUYZAJ6TB7PW) and [Smart Contracts](https://www.coursera.org/account/accomplishments/verify/FF6YVWZWMLXV).
-- Ask me about **Blockchain, Smalltalk and Pharo**
-- Twitter: No
-- Instagram: No
-- Facebook: No
-- TikiTok: Hehe, imagine that.
+- Ask me about **Blockchain, Bioinformatics, and Smalltalk**
+- Twitter, Instagram, Facebook, Tikitok : ***No***
 
 <h3>⚡️ A Few Quick Facts</h3>
   <ul>
