@@ -25,7 +25,7 @@ My name is Hernán Morales Durand and I'm a software developer, you can find me 
 <h3>⚡️ A Few Quick Facts</h3>
   <ul>
     <li>🔭 I’m currently working on Pharo.
-    <li>🧐 Learning about serverless architectures, distributed systems, and ML.
+    <li>🧐 Now (2025) creating my medical-device bio-startup.
     <li>👨‍💻 Most of my projects are available on GitHub.
     <li>📝 I <del>regulary</del>,ok <del>sometimes</del>....<del>rarely??</del> well <del>I write articles on my blog</del>, <ins>forgot where is my blog</ins>
     <li>💬 Ping me about Pharo, Smalltalk, Blockchain, and Bioinformatics stuff.
